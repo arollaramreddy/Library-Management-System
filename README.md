@@ -1,9 +1,5 @@
 # Library Management System
-
-**Course:** IFT 530 – Advanced Database Management System  
-**Group:** 51  
-**Team Members:** Ramreddy Arolla, Arya Jinan Panicker  
-**SQL Server:** Microsoft SQL Server 2022  
+ 
 
 ---
 
